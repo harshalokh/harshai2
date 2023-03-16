@@ -1,0 +1,20 @@
+{
+    "author":"Brad_Dayley",
+    "name":"censor_if_y",
+    "version":"0.2.8",
+    "description":"Censors words out of text",
+    "main":"censortext",
+    "repository":
+    {
+        "type":"git",
+        "url": "https://github.com/harshalokh/harsha"
+    },
+    "keywords":[
+        "censor",
+        "words"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
