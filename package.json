@@ -1,13 +1,13 @@
 {
     "author":"Brad_Dayley",
-    "name":"censor_if_y",
+    "name":"censor_i2",
     "version":"0.2.8",
     "description":"Censors words out of text",
     "main":"censortext",
     "repository":
     {
         "type":"git",
-        "url": "https://github.com/harshalokh/harsha"
+        "url": "https://github.com/harshalokh/harshai2"
     },
     "keywords":[
         "censor",
